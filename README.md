@@ -1,24 +1,7 @@
-# chat-room
+## Websocket + Vue.js 网络多人聊天室
 
-## Project setup
-```
-npm install
-```
+### 浏览地址：http://becool.icu:8082
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 注册即可登录畅聊
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
