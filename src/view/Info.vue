@@ -54,7 +54,9 @@ export default {
       this.$store.commit('setToken', '');
       this.$store.commit('setUserName', '');
       this.$store.commit('setSrc', '');
+      this.$store.commit('setShowFooter', false)
       this.$router.push('/login');
+      
     },
     loadAvatar() {
       const num = Math.floor(Math.random() * 20 + 1);
