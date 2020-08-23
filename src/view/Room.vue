@@ -28,7 +28,7 @@
             <span class="userName">{{item.username}}</span>
           </div>
           <div class="message-content">
-            <span>{{item.msg}}</span>
+            <div>{{item.msg}}</div>
           </div>
         </div>
       </div>
@@ -231,5 +231,6 @@ html {
   padding: 5px;
   border-radius: 5px;
   box-shadow: 2px 2px 2px #ddd;
+  text-align: start;
 }
 </style>

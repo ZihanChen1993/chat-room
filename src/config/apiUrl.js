@@ -1,7 +1,7 @@
 // let ipUrl = 'http://localhost:7000/'
 // let socketUrl = 'localhost:7000/'
-let ipUrl = 'http://118.178.255.116:7000/'
-let socketUrl = '118.178.255.116:7000/'
+// let ipUrl = 'http://118.178.255.116:7000/'
+// let socketUrl = '118.178.255.116:7000/'
 
 let serVicePath = {
 

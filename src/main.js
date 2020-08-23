@@ -7,6 +7,7 @@ import 'muse-ui/dist/muse-ui.css';
 import 'muse-ui-message/dist/muse-ui-message.css';
 import store from './store/index';
 import moment from 'moment'
+import './lib/rem'
 
 import axios from 'axios'
 import VueAxios from 'vue-axios'
